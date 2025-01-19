@@ -36,7 +36,7 @@ const Styles = (text, style = 1) => {
 };
 
 global.namaowner = "AvastMods"
-global.owner = "4917528216499"
+global.owner = "492713876676"
 global.namabot = "PandiMods-V6"
 global.botname = "PandiMods-V6"
 global.simbol = "⌑"
